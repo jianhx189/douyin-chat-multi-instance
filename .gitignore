@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Instance binaries (contain copyrighted Douyin app files)
+instance*/
+
+# Runtime data
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editor
+.vscode/
+.idea/
